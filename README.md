@@ -24,11 +24,9 @@ I am building this portfolio as a cybersecurity student to demonstrate practical
 ### Lab 1: Wireshark Traffic Analysis
 Analyze captured network packets to identify protocols, source and destination IP addresses, and unusual traffic patterns.
 
-### Lab 2: DNS Traffic Review
-Review DNS queries to understand how domain lookups work and how suspicious DNS activity may appear in logs.
+### Lab 2: how to read .pcsp file 
+Review the traffic captured in another computer or another time.
 
-### Lab 3: Nmap Basic Network Scan
-Use Nmap to identify open ports and understand basic network enumeration.
 
 ## Career Connection
 These labs support my goal to become a cybersecurity analyst by building real-world skills in monitoring, investigation, documentation, and threat detection.
