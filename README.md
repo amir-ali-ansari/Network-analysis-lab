@@ -15,7 +15,6 @@ I am building this portfolio as a cybersecurity student to demonstrate practical
 
 ## Tools Used
 - Wireshark
-- Linux command line
 - Windows networking tools
 - Nmap
 
